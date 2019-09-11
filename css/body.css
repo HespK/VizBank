@@ -3,7 +3,9 @@ body {
     margin: 0;
 }
 
-html, body, #mapid {
+html,
+body,
+#mapid {
     height: 100%;
     font: 10pt "Helvetica Neue", Arial, Helvetica, sans-serif;
 }
@@ -14,21 +16,21 @@ html, body, #mapid {
 }
 
 #wrap {
-    width:400px;
+    width: 400px;
     min-height: 400px;
-    margin:0 auto;
+    margin: 0 auto;
 }
 
 #left-col {
-    float:left;
-    width:300px;
+    float: left;
+    width: 300px;
     min-height: 450px;
     margin: 0 auto;
-}   
+}
 
 #right-col {
-    float:right;
-    width:100px;
+    float: right;
+    width: 100px;
     height: 450px;
     margin: 0 auto;
 }
@@ -37,9 +39,9 @@ html, body, #mapid {
     min-width: 250px;
     height: 200px;
     margin: 0 auto
-        }
+}
 
-#dvTable{
+#dvTable {
     position: relative;
     margin-left: auto;
     margin-right: auto;
@@ -47,22 +49,19 @@ html, body, #mapid {
     padding-left: 50px;
 }
 
-#totalVisits{
+#totalVisits {
     padding-left: 50px;
     font-weight: bold;
 }
-        
+
 table {
     border-collapse: collapse;
 }
-        
-th{
+
+th {
     background-color: #95CEFF;
 }
-        
-tr{
+
+tr {
     text-align: center;
 }
-
-
-    
